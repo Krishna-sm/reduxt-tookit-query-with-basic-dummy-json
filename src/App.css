@@ -1,0 +1,18 @@
+.App{
+  margin:20px;
+}
+
+
+.data{
+  padding: 10px 20px ;
+  border: 1px solid white;
+  color: white;
+  margin-top: 20px;
+  text-align: center;
+  width: 20%;
+  margin: auto;
+  margin-bottom: 20px;
+}
+.data h4{
+  color: white;
+}
